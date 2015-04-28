@@ -1,0 +1,22 @@
+{
+  "framework": "vibe.d",
+  "tests": [{
+    "default": {
+      "setup_file": "setup",
+      "json_url": "/json",
+      "plaintext_url": "/plaintext",
+      "port": 8081,
+      "approach": "Realistic",
+      "classification": "Fullstack",
+      "database": "None",
+      "framework": "vibe.d",
+      "language": "D",
+      "orm": "Full",
+      "platform": "Meinheld",
+      "webserver": "None",
+      "os": "Linux",
+      "database_os": "Linux",
+      "display_name": "vibe.d"
+    }
+  }]
+}
