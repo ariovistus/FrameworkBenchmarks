@@ -4,6 +4,7 @@
     "default": {
       "setup_file": "setup",
       "json_url": "/json",
+      "db_url": "/db",
       "plaintext_url": "/plaintext",
       "port": 8081,
       "approach": "Realistic",
@@ -11,7 +12,7 @@
       "database": "None",
       "framework": "vibe.d",
       "language": "D",
-      "orm": "Full",
+      "orm": "Raw",
       "platform": "Meinheld",
       "webserver": "None",
       "os": "Linux",

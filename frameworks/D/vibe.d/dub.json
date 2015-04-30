@@ -4,7 +4,8 @@
 	"copyright": "Copyright © 2015, ellery",
 	"authors": ["ellery"],
 	"dependencies": {
-		"vibe-d": "~>0.7.19"
+		"vibe-d": "~>0.7.19",
+                "ddb": "~>0.2.3"
 	},
 	"versions": ["VibeDefaultMain"]
 }
